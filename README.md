@@ -10,7 +10,7 @@ During my work experience week I have been assigned with working in the commonwe
 ## Business process mapping:
 With Fredrick we discussed business prosses mapping where he uses information given to him to design a solution, these solutions can be used to either save time or save money.
 ## Power apps basics:
-With kale he showed me how he uses microsoft forms to gather information and export them to an excel document where the information given can be processed for example cash passports. We also went over how he uses visual studio to create temporary websites for clients. ![Alt text](Desktop/mwnathan/FirstGraph) 
+With kale he showed me how he uses microsoft forms to gather information and export them to an excel document where the information given can be processed for example cash passports. We also went over how he uses visual studio to create temporary websites for clients. ![Alt text](FirstGraph.png) 
 ## Data analytics:
 With Felix we went over how he converts data from being complecated to being easy to read for others using power bi, on power bi we gathered data from an excel spreadsheet and was able to convert that data to a graph of personal design.
 ## Data governance:
